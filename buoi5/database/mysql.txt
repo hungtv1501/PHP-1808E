@@ -1,0 +1,1 @@
+test chen file khong can fwrite
